@@ -147,7 +147,7 @@ fetch('http://localhost:5000/update_model')
 Built with 💡 and 💻 by [L.P. Harisha Lakshan Warnakulasuriya](https://newsletter.harishacrypto.xyz)
 
 📬 For questions, projects, or consulting:
-[unicornprofessionalbay@gmail.com](mailto:unicornprofessionalbay@gmail.com)**
+[unicornprofessionalbay@gmail.com](mailto:unicornprofessionalbay@gmail.com)
 
 📝 License
 
